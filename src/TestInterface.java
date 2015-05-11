@@ -34,4 +34,5 @@ public class TestInterface {
 
         System.out.println(people);
     }
+
 }
